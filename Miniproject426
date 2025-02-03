@@ -61,3 +61,22 @@ int main() {
 
     return 0;
 }
+INPUT/OUTPUT:
+Simple Calculator
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Exit
+Enter your choice: 1
+Enter two numbers: 1
+32
+Result: 33.00
+
+Simple Calculator
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Exit
+Enter your choice: 
